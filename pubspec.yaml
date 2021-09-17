@@ -12,7 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   localstorage: ^4.0.0+1
-  yao_core: ^0.0.2
+  yao_core: 
+    path: ../yao_core
 
 dev_dependencies:
   flutter_test:
