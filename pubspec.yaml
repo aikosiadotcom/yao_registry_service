@@ -13,7 +13,9 @@ dependencies:
     sdk: flutter
   localstorage: ^4.0.0+1
   yao_core: 
-    path: ../yao_core
+    git:
+      url: git://github.com/jlouage/flutter-carousel-pro.git
+      ref: master
 
 dev_dependencies:
   flutter_test:
